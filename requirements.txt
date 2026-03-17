@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T11:16:17.086Z
-Commit: Correct typo in configuration file
+Timestamp: 2026-03-17T09:04:50.927Z
+Commit: Fix broken links in documentation
