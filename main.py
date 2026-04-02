@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-27T21:35:01.756Z
-Commit: Introduce real-time notifications
+Timestamp: 2026-04-02T20:55:25.832Z
+Commit: Fix race condition in async operations
